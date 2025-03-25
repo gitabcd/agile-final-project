@@ -11,12 +11,12 @@ assignees: ''
 **I need**
 **So that**
 
-###Detail and Assumptions
+### Detail and Assumptions
 *
 *
 *
 
-**Acceptance Criteria**
+### Acceptance Criteria
 ````Gherkin
 
 ````
