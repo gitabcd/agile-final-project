@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-**As a**
-**I need**
-**So that**
+**As a** 
+**I need** 
+**So that** 
 
 ### Detail and Assumptions
 *
