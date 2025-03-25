@@ -16,7 +16,7 @@ assignees: ''
 *
 *
 
-**Aceptance Criteria**
+**Acceptance Criteria**
 ````Gherkin
 
 ````
